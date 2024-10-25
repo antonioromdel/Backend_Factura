@@ -1,3 +1,3 @@
-Backend desarrollado con SpringBoot donde se puede crear una factura.
+API REST desarrollada con SpringBoot.
 
 Proyecto realizado para practicar.
